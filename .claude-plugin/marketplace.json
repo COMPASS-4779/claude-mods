@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "COMPASS-4779" },
+  "plugins": [
+    {
+      "name": "irai-checklist",
+      "source": "./irai-checklist",
+      "description": "セッション中の依頼を一覧にして横に表示し、未完了があるまま作業を終えないようにする"
+    }
+  ]
+}
