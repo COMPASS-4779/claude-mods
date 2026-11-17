@@ -31,3 +31,7 @@ claude plugin install irai-checklist --marketplace COMPASS-4779/claude-mods
 ```
 
 デスクトップアプリ（`/plugin` が使えない場合）：プロンプト欄の横の + → Plugins → Add marketplace に `COMPASS-4779/claude-mods` を入力 → Add plugin。
+
+## ライセンス
+
+MIT License（[LICENSE](LICENSE)）。作者表示を残せば自由に使用・改変・再配布できます。無保証です。

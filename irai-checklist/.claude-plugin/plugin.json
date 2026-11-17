@@ -2,5 +2,6 @@
   "name": "irai-checklist",
   "version": "0.1.0",
   "description": "セッション中の依頼を一覧にして横に表示し、未完了があるまま作業を終えないようにする",
-  "types": "./types/index.d.ts"
+  "types": "./types/index.d.ts",
+  "license": "MIT"
 }
